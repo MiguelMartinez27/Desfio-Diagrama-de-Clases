@@ -1,7 +1,7 @@
 # Desafio-Diagramadeclases
 Este repositorio consiste en los archivos para el desafio "diagrama de clases", correspondiente al modulo 4 "python avanzado" para el bootcamp full stack python de talento digital.
 
-# Proyecto de Encuestas
+## Proyecto de Encuestas
 
 Este proyecto implementa un sistema de encuestas en Python, utilizando clases para representar preguntas, respuestas, usuarios, y diferentes tipos de encuestas. Las clases se derivan de un diagrama de clases y permiten crear objetos relacionados con el manejo de encuestas y sus respectivas respuestas.
 
